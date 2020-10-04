@@ -1,0 +1,8 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-color: ;
+    background-size: cover;
+}
