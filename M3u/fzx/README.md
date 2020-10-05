@@ -20,7 +20,7 @@
                 <img src="https://cdn.jsdelivr.net/gh/Cuiyim/Picbed2/img/20201005074620.jpg" alt="微信" />
             </div>
         </a>
-        <a class="button is-warning donate" href="https://www.wanjia.fun/QAchirou" title="click me">
+        <a class="button is-warning donate" href="https://www.wanjia.fun/" title="click me">
             <span class="icon is-small">
                 <i class="fab fa-paypal"></i> 
             </span>
