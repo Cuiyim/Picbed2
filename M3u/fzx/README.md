@@ -8,7 +8,7 @@
             </span>
             <span>支付宝</span>
             <div class="qrcode">
-                <img src="https://cdn.jsdelivr.net/gh/Cuiyim/Picbed2/img/20201005074615.jpg" alt="支付宝" />
+                <img class="image" style="margin: auto;width: 300px;" src="https://cdn.jsdelivr.net/gh/Cuiyim/Picbed2/img/20201005074615.jpg" alt="支付宝" />
             </div>
         </a>
         <a class="button is-success donate">
@@ -17,10 +17,10 @@
             </span>
             <span>微信</span>
             <div class="qrcode">
-                <img src="https://cdn.jsdelivr.net/gh/Cuiyim/Picbed2/img/20201005074620.jpg" alt="微信" />
+                <img class="image" style="margin: auto;width: 300px;" src="https://cdn.jsdelivr.net/gh/Cuiyim/Picbed2/img/20201005074620.jpg" alt="微信" />
             </div>
         </a>
-        <a class="button is-warning donate" href="https://www.wanjia.fun/" title="click me">
+        <a class="button is-warning donate" href="https://www.wanjia.fun/QAchirou" title="click me">
             <span class="icon is-small">
                 <i class="fab fa-paypal"></i> 
             </span>
@@ -32,7 +32,7 @@
             </span>
             <span>Patreon</span>
             <div class="qrcode">
-                <img src="https://cdn.jsdelivr.net/gh/Cuiyim/Picbed2/img/20201005074811.png" />
+                <img class="image" style="margin: auto;width: 300px;" src="https://cdn.jsdelivr.net/gh/Cuiyim/Picbed2/img/20201005074811.png" />
                 <span style="position: absolute;top: 30px;left: 0;right: 0;color: black;">Thank you very much❤</span>
             </div>
         </a>
