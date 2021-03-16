@@ -166,10 +166,11 @@ a:hover {
     filter: grayscale(100%);
     filter: gray;
 }
-/*修改全局字体*/
+/*字体加载开始*/
 *:not([class*="icon"]):not(i) {
-    font-family: "Arima Madurai",Microsoft JhengHei,Georgia,Times,serif;
+    font-family:eafont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,STHeiti,WenQuanYi Micro Hei,Helvetica,Arial,sans-serif;
 }
+/*字体加载结束*/
 /*修改鼠标指针*/
 #* {
     cursor: url(https://img.share101.cn/user_files/1/publish/style/cursor.ico),auto;
